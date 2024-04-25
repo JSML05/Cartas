@@ -23,7 +23,7 @@ public class Main {
 
         int carta = 0;
 
-        System.out.println("----CORAZONES----");
+        System.out.println("----PALOS----");
         for (int i = 0; i < 8; i++) {
 
             System.out.println("Ingrese el valor de la carta ");
